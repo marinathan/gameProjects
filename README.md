@@ -2,7 +2,6 @@
 
 # <marquee>Games by Nathan Bantug</marquee>
 
-## Other games where Nathan Bantug contributed:
 - [ ] [Chronoboros](https://marinathan.github.io/Gold/index)
 
 - [ ] [Gaslight](https://marinathan.github.io/gaslightGold/index)
